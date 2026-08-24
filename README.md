@@ -11,27 +11,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- ============================================ -->
-<!--        ANIMATED PROFILE PICTURE              -->
-<!-- ============================================ -->
-<p align="center">
-  <a href="https://github.com/chudasamaharshil04-prog">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chudasamaharshil04-prog/chudasamaharshil04-prog/main/assets/profile-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chudasamaharshil04-prog/chudasamaharshil04-prog/main/assets/profile-light.svg">
-      <img src="https://github.com/chudasamaharshil04-prog.png" width="180" alt="Harshil's Profile Picture" />
-    </picture>
-  </a>
-</p>
 
-<!-- Dark/Light Mode Toggle Info -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌙%20Dark%20Mode-Active-7c3aed?style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/☀️%20Light%20Mode-Active-f59e0b?style=for-the-badge">
-    <img src="https://img.shields.io/badge/🎨%20Theme-Auto--Detect-6366f1?style=for-the-badge" />
-  </picture>
-</p>
 
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 

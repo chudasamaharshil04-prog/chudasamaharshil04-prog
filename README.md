@@ -103,12 +103,12 @@
     <th>⚙️ Details</th>
   </tr>
   <tr>
-    <td>💻 Laptop</td>
-    <td>Update with your laptop model</td>
+    <td>💻 Desktop</td>
+    <td>Asus</td>
   </tr>
   <tr>
     <td>🖥️ OS</td>
-    <td>Windows / Linux (Update yours)</td>
+    <td>Windows 8 64bit</td>
   </tr>
   <tr>
     <td>📝 Code Editor</td>
@@ -124,15 +124,15 @@
   </tr>
   <tr>
     <td>🌐 Browser</td>
-    <td>Chrome / Brave</td>
+    <td>Chrome / Firefox</td>
   </tr>
   <tr>
     <td>⌨️ Keyboard</td>
-    <td>Update yours</td>
+    <td>Tata chetak</td>
   </tr>
   <tr>
     <td>🖱️ Mouse</td>
-    <td>Update yours</td>
+    <td>Fingers</td>
   </tr>
 </table>
 
@@ -161,23 +161,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================================ -->
-<!--          SPOTIFY NOW PLAYING                 -->
-<!-- ============================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=500&lines=%F0%9F%8E%B5+Spotify+Now+Playing" alt="Spotify" />
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-> ⚠️ **Setup Required!** See the setup instructions below to make this work.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================ -->
 <!--            RANDOM JOKE                       -->

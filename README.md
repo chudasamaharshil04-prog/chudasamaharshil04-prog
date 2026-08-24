@@ -150,6 +150,13 @@
 
 <!-- ✨ NEW: Animated Snake Eating Contribution Graph -->
 ## 🐍 Watch My Contributions Get Eaten!
+<h2 align="center">🐍 Contribution Graph Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chudasamaharshil04-prog/chudasamaharshil04-prog/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chudasamaharshil04-prog/chudasamaharshil04-prog/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/chudasamaharshil04-prog/chudasamaharshil04-prog/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/chudasamaharshil04-prog/chudasamaharshil04-prog/output/github-contribution-grid-snake-dark.svg" alt="snake" />

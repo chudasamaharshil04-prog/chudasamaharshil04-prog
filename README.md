@@ -217,19 +217,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================================ -->
-<!--         3D CONTRIBUTION GLOBE                -->
-<!-- ============================================ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=500&lines=%F0%9F%8C%8D+3D+Contribution+Globe" alt="3D Globe" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api/demo?user=chudasamaharshil04-prog&theme=github_dark&bgColor=0d1117" alt="3D Contribution Globe" width="600" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================ -->
 <!--         CONTRIBUTION SNAKE                   -->

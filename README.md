@@ -1,45 +1,23 @@
-<!-- ✨ EASTER EGG: You found the secret! Harshil is awesome. 🎉 -->
-<!-- ✨ Another secret: The answer to life, the universe, and everything is 42. -->
-
-<!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshil;Frontend+Developer+%F0%9F%8E%A8;Python+Enthusiast+%F0%9F%90%8D;Vibe+Coder+%E2%9C%A8;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-<!-- Animated Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </p>
 
-
-
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
-<!-- Badges & Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chudasamaharshil04-prog&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/github/followers/chudasamaharshil04-prog?label=Followers&style=for-the-badge&color=ff6b6b" alt="followers" />
   <img src="https://img.shields.io/github/last-commit/chudasamaharshil04-prog/chudasamaharshil04-prog?label=Last%20Active&style=for-the-badge&color=10b981" alt="last active" />
 </p>
 
-<!-- Custom Emoji Reactions Row -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥-On%20Fire-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/👀-Watching-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🚀-Launching-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/💯-100%25-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚡-Vibing-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎯-Focused-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧠-Big%20Brain-pink?style=flat-square" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================================ -->
-<!--              ABOUT ME                        -->
-<!-- ============================================ -->
+<!-- ================= ABOUT ME ================= -->
 
-<!-- Gradient SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=400&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </p>
@@ -60,18 +38,14 @@
 
 </td>
 <td width="45%" align="center">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
-
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================================ -->
-<!--              MY SETUP                        -->
-<!-- ============================================ -->
+<!-- ================= MY SETUP ================= -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=400&lines=%F0%9F%96%A5%EF%B8%8F+My+Setup" alt="My Setup" />
@@ -82,45 +56,19 @@
     <th>🖥️ Component</th>
     <th>⚙️ Details</th>
   </tr>
-  <tr>
-    <td>💻 Desktop</td>
-    <td>Asus</td>
-  </tr>
-  <tr>
-    <td>🖥️ OS</td>
-    <td>Windows 8 64bit</td>
-  </tr>
-  <tr>
-    <td>📝 Code Editor</td>
-    <td>VS Code</td>
-  </tr>
-  <tr>
-    <td>🎨 Theme</td>
-    <td>One Dark Pro / GitHub Dark</td>
-  </tr>
-  <tr>
-    <td>🔤 Font</td>
-    <td>Fira Code / JetBrains Mono</td>
-  </tr>
-  <tr>
-    <td>🌐 Browser</td>
-    <td>Chrome / Firefox</td>
-  </tr>
-  <tr>
-    <td>⌨️ Keyboard</td>
-    <td>Tata chetak</td>
-  </tr>
-  <tr>
-    <td>🖱️ Mouse</td>
-    <td>Fingers</td>
-  </tr>
+  <tr><td>💻 Desktop</td><td>Asus</td></tr>
+  <tr><td>🖥️ OS</td><td>Windows 8 64bit</td></tr>
+  <tr><td>📝 Code Editor</td><td>VS Code</td></tr>
+  <tr><td>🎨 Theme</td><td>One Dark Pro / GitHub Dark</td></tr>
+  <tr><td>🔤 Font</td><td>Fira Code / JetBrains Mono</td></tr>
+  <tr><td>🌐 Browser</td><td>Chrome / Firefox</td></tr>
+  <tr><td>⌨️ Keyboard</td><td>Tata chetak</td></tr>
+  <tr><td>🖱️ Mouse</td><td>Fingers</td></tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================================ -->
-<!--         FAVORITE VS CODE EXTENSIONS          -->
-<!-- ============================================ -->
+<!-- ================= VS CODE EXTENSIONS ================= -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Favorite+VS+Code+Extensions" alt="VS Code Extensions" />
@@ -141,25 +89,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-
-
-<!-- ============================================ -->
-<!--            RANDOM JOKE                       -->
-<!-- ============================================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=400&lines=%F0%9F%98%82+Random+Dev+Joke" alt="Joke" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&borderColor=00f7ff&qColor=00f7ff&aColor=10b981" alt="Random Dev Joke" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================================ -->
-<!--           CONNECT WITH ME                    -->
-<!-- ============================================ -->
+<!-- ================= CONNECT ================= -->
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -179,9 +109,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================================ -->
-<!--          LANGUAGES AND TOOLS                 -->
-<!-- ============================================ -->
+<!-- ================= LANGUAGES & TOOLS ================= -->
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
@@ -217,11 +145,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ================= GITHUB STATS ================= -->
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-<!-- ============================================ -->
-<!--         CONTRIBUTION SNAKE                   -->
-<!-- ============================================ -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chudasamaharshil04-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=10b981&text_color=ffffff" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chudasamaharshil04-prog&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=10b981&fire=ff6b6b&currStreakLabel=00f7ff" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chudasamaharshil04-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" height="150" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ================= SNAKE ================= -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
@@ -234,148 +173,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================================ -->
-<!--       INTERACTIVE MINI GAME                  -->
-<!-- ============================================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AE+Mini+Adventure+Game" alt="Game" />
-</p>
-
-<details>
-<summary>🎮 Click to Start the Game!</summary>
-<br>
-
-> **You wake up in a dark room. A terminal screen glows in front of you.**
-> It says: `"Welcome, Developer. Choose your path wisely."`
-
-<details>
-<summary>🚪 Door 1: The Frontend Forest</summary>
-<br>
-
-> You enter a forest made of **HTML trees**, **CSS rivers**, and **JavaScript bridges**.
-> A bug appears! 🐛
->
-> <details>
-> <summary>⚔️ Fight the bug with Console.log()</summary>
-> <br>
->
-> > **VICTORY!** 🎉 The bug is squashed. You gain **+10 Debugging XP**.
-> > You find a treasure chest containing a **Lifetime Supply of Semicolons** `;;;`
-> >
-> > **🏆 THE END — You are a Frontend Warrior!**
-
-  </details>
-
-  <details>
-  <summary>🏃 Run away</summary>
-  <br>
-
-  > You trip over a `<div>` and fall into an infinite loop. `while(true) { run(); }`
-  >
-  > **💀 GAME OVER — Stack Overflow!**
-
-  </details>
-
-</details>
-
-<details>
-<summary>🚪 Door 2: The Python Pyramid</summary>
-<br>
-
-> You climb a pyramid made of **Python scripts**. At the top, a snake 🐍 asks you a riddle:
->
-> *"What is `print(type([]))`?"*
->
-> <details>
-> <summary>🤔 Answer: &lt;class 'list'&gt;</summary>
-> <br>
-
-> **CORRECT!** 🎉 The snake bows and gives you the **Golden Indentation Award**.
->
-> **🏆 THE END — You are a Python Master!**
-
-  </details>
-
-  <details>
-  <summary>🤔 Answer: &lt;class 'tuple'&gt;</summary>
-  <br>
-
-  > **WRONG!** The snake hisses and wraps you in a `try-except` block forever.
-  >
-  > **💀 GAME OVER — IndentationError!**
-
-  </details>
-
-</details>
-
-<details>
-<summary>🚪 Door 3: The Vibe Coding Lounge</summary>
-<br>
-
-> You walk into a neon-lit lounge. Lo-fi beats play in the background. 🎶
-> An AI assistant says: *"Just describe what you want. I'll code it."*
->
-> You say: *"Build me a time machine."*
->
-> The AI responds: `Error: Time is a construct. But here's a clock app instead.` ⏰
->
-> **🏆 THE END — You are a Vibe Coding Legend!** 😎
-
-</details>
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================================ -->
-<!--         QR CODE TO PORTFOLIO                 -->
-<!-- ============================================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=500&lines=%F0%9F%93%B1+Scan+My+Portfolio" alt="QR Code" />
-</p>
-
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://harshil2008-dev.netlify.app/&color=00f7ff&bgcolor=0d1117" alt="QR Code to Portfolio" />
-</p>
-<p align="center">
-  <i>📱 Scan with your phone to visit my portfolio!</i>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================================ -->
-<!--            EASTER EGG                        -->
-<!-- ============================================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=gradient&customColorList=6,11,20&center=true&vCenter=true&width=400&lines=%F0%9F%A5%9A+Secret+Zone" alt="Easter Egg" />
-</p>
-
-<details>
-<summary>🤫 Psst... Click here for a secret</summary>
-<br>
-<p align="center">
-
-🎉 **You found the Easter Egg!** 🎉
-
-> *"The best code is the code you don't have to write."* — Harshil, probably
-
-**Secret Achievement Unlocked:** 🏅 `README Explorer`
-
-You are one of the **< 1%** of people who actually read GitHub READMEs this carefully.
-
-**Reward:** Here's a virtual cookie 🍪 and a high five 🙌
-
-**Konami Code:** ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️🅱️🅰️ (Try it on my portfolio!)
-
-</p>
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </p>
